@@ -10,7 +10,7 @@ void WTL(){
         
     }
     i--;
-    cout<<s[0]<<i-2<<s[i];
+    cout<<s[0]<<i-1<<s[i]<<"\n";
 }
 int main()
 {
